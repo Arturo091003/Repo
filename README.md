@@ -18,11 +18,11 @@ This notebook presents data analysis using various tools and techniques in data 
 | Jupyter | Notebook creation environment |
 | GitHub | Version control platform |
 | Docker | Application containers |
-## Ejemplos de Expresiones Aritméticas
-- Suma: `a + b`
-- Resta: `a - b`
-- Multiplicación: `a * b`
-- División: `a / b`
+## Examples of Arithmetic Expressions
+- Addition: `a + b`
+- Subtraction: `a - b`
+- Multiplication: `a * b`
+- Division: `a / b`
 # Multiply and add numbers
 a = 5
 b = 10
